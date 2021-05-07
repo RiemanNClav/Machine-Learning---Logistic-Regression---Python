@@ -1,5 +1,4 @@
 # Machine-Learning---Logistic-Regression---Python
-implementation of unsupervised algorithms
 Alcohol QCM Sensor Dataset Data Set
 Información sobre el conjunto de datos:
 
